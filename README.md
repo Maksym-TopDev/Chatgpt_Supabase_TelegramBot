@@ -7,7 +7,7 @@
    - `supabase link --project-ref <PROJECT_ID>` - links your local CLI to your Supabase project.
    - `supabase db push` - it pushes your local database schema and any data to your Supabase project.
 
-2. Contact [@BotFather](https://t.me/BotFather) on Telegram to create a bot and get its token.
+2. Contact [BotFather](https://t.me/BotFather) on Telegram to create a bot and get its token.
 
 3. Set up your environment variables by copying the example file:
 
