@@ -13,7 +13,7 @@
 
    - `cp supabase/.env.example supabase/.env`
 
-4. Fill out the environment variables in the `.env` file:
+4. Fill out the environment variables in the `.env` file:  
 
    - `BOT_TOKEN=your-telegram-bot-token`
    - `FUNCTION_SECRET=secret123`
